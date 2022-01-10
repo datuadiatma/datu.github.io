@@ -17,7 +17,7 @@ repository               : "datuadiatma/datu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Datu Adiatma"
   avatar           : "Capture.PNG"
-  bio              : "Geologist<br>Chemostratigrapher<br>Earth Scientist"
+  bio              : "Geologist<br>Chemostratigrapher<br><br>PhD Candidate at OSU School of Earth Sciences<br><br>I've been losing sleeps over things that happened hundreds of millions of years ago"
   location         : "Columbus, OH"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9mauI8YAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Yoseph-Adiatma"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   github           : "datuadiatma"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "datuadiatma"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
