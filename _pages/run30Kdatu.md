@@ -14,12 +14,14 @@ You can also join me for a post run coffee at oneline in Franklinton, see the pa
 
 You can also see the overall route via this [link](https://www.strava.com/routes/2979585232167291318).
 
+If you want to reach out to me during my run you can call / text Jack, Ben, or Hannah G.
+
 ## Live tracker
 
 <style>
 .video-container {
     position: relative;
-    padding-bottom: 56.25%;
+    padding-bottom: 120%;
     padding-top: 35px;
     height: 0;
     overflow: hidden;
