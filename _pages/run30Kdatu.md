@@ -1,12 +1,18 @@
 ---
 permalink: /run30kdatu/
-title: "Run 30 KM on July 9th 2022"
+title: "Birthday Run"
 excerpt: "Run, Walk, Bike, Fly, Crawl, whatever you want to do:)"
 author_profile: true
 redirect_from: 
   - "/run/"
   - "/run.html"
 ---
+
+I will be running a 30K on July 9th 2022. I will start from the Columbus City Hall at 07:00 AM, and finish in front of Mendenhall Lab at 10:00 AM. See live tracker below if you want to tag along (walking, running, biking, skating, etc).
+
+You can also join me for a post run coffee at oneline in Franklinton, see the pal or ses grad groupme or text me for more info. 
+
+You can also see the overall route via this [link](https://www.strava.com/routes/2979585232167291318).
 
 ## Live tracker
 <style>

@@ -7,7 +7,7 @@ main:
   #  url: /talks/    
 
   #- title: "Teaching"
-    url: /teaching/    
+  #  url: /teaching/    
     
         
   #- title: "Blog Posts"
@@ -16,4 +16,6 @@ main:
     
   #- title: "CV"
   #  url: /cv/
-    
+  
+  - title: "30K Run"
+    url: /run30kdatu/
