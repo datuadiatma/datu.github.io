@@ -15,6 +15,7 @@ You can also join me for a post run coffee at oneline in Franklinton, see the pa
 You can also see the overall route via this [link](https://www.strava.com/routes/2979585232167291318).
 
 ## Live tracker
+
 <style>
 .video-container {
     position: relative;
@@ -34,5 +35,9 @@ You can also see the overall route via this [link](https://www.strava.com/routes
 </style>
 
 <div class="video-container">
-	<iframe id="glympser" width="600" height="500" src="//glympse.com/ext/!datu30k?twt=mas_datu" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+	<iframe id="glympser" width="600" height="800" src="//glympse.com/ext/!datu30k?twt=mas_datu" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"></iframe>
 </div>
+
+
+
+If the live tracker does not work you can use this [link](http://glympse.com/!datu30k).
